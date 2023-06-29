@@ -1,0 +1,96 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'Times New Roman', Times, serif;
+  background-color: rgb(151, 244, 137);
+  
+}
+
+label{
+  font-weight: bold;
+}
+
+header{
+  margin: 50px;
+  font-size: 35px;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  background-color: chartreuse;
+  box-sizing: border-box;
+  border-radius: 15px;
+  
+}
+
+.logo{
+  background-color: chartreuse;
+  margin: 0;
+  padding: 0;
+}
+
+
+
+nav{
+ display: flex;
+ justify-content: center;
+ margin-bottom: 25px;
+}
+
+main{
+  display: flex;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+}
+
+button{
+  background-color: greenyellow;
+  border-radius: 5px;
+  font-size: larger;
+  margin: 15px;
+  cursor: pointer;
+  padding: 7px;
+
+}
+
+.save{
+  padding: 7px;
+}
+
+input{
+  background-color: chartreuse;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.name{
+  display: flex;
+  justify-content: center;
+  padding: 7px;
+}
+
+.listname{
+ display: block;
+}
+
+.quantity{
+  width: 25px;
+}
+
+footer{
+  display:flex;
+  justify-content: center;
+  margin-top: 350px;
+}
+
+h1{
+  display: flex;
+  justify-content: center;
+}
+
+
+
+
+
+ 
+
